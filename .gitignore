@@ -18,3 +18,6 @@ dist/
 
 # Ignore vscode directory
 .vscode/
+
+hf_models/
+build_model.py
